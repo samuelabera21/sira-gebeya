@@ -4,7 +4,7 @@ Sira Gebeya is a responsive job marketplace platform designed to connect job see
 
 ## Live Demo
 
-[View the live site](https://resplendent-starship-9acec3.netlify.app/)
+[click here and View the live site ](https://resplendent-starship-9acec3.netlify.app/)
 
 ## Project Overview
 
